@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "517182293428",
+    "firebase_url": "https://gudangpd-commerce-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "gudangpd-commerce",
+    "storage_bucket": "gudangpd-commerce.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:517182293428:android:d6c6e624a9209d9a26dee1",
+        "android_client_info": {
+          "package_name": "com.gudangpd.gudangpd_admin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUgJLK0CXEfw8HyKG71sb4modFCHhq6L0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
